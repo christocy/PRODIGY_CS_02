@@ -1,2 +1,25 @@
 # PRODIGY_CS_02
 Image Encryption and Decryption Tool
+
+Image Encryption and Decryption Tool: A simple Python tool for encrypting and decrypting images using a basic key-based method.
+
+Features:
+Encryption: Adds a key value to each pixel's RGB values to encrypt the image.
+Decryption: Subtracts the key value from each pixel's RGB values to decrypt the image.
+User Input: Allows users to choose between encryption and decryption, and specify file paths and keys.
+How to Use:
+Clone the repository:git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+Install Dependencies: Ensure you have the PIL package installed:pip install pillow
+Run the Tool:
+python image_tool.py
+
+Example:Do you want to (E)ncrypt or (D)ecrypt an image? e
+Enter the path of the image: example.jpg
+Enter the output path for the new image: encrypted_example.jpg
+Enter the encryption key (a number): 50
+License
+
+This project is licensed under the MIT License.
+
+This project was developed as part of a virtual internship at Prodigy InfoTech.
