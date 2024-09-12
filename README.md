@@ -3,6 +3,9 @@ Image Encryption and Decryption Tool
 
 Image Encryption and Decryption Tool: A simple Python tool for encrypting and decrypting images using a basic key-based method.
 
+Install Required Libraries
+pip install Pillow
+
 Features:
 Encryption: Adds a key value to each pixel's RGB values to encrypt the image.
 Decryption: Subtracts the key value from each pixel's RGB values to decrypt the image.
