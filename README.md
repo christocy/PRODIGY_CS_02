@@ -11,7 +11,7 @@ Encryption: Adds a key value to each pixel's RGB values to encrypt the image.
 Decryption: Subtracts the key value from each pixel's RGB values to decrypt the image.
 User Input: Allows users to choose between encryption and decryption, and specify file paths and keys.
 How to Use:
-Clone the repository:git clone https://github.com/christocy/your-repo.git
+Clone the repository:git clone https://github.com/christocy/PRODIGY_CS_02.git
 cd your-repo
 Install Dependencies: Ensure you have the PIL package installed:pip install pillow
 Run the Tool:
