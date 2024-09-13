@@ -25,9 +25,9 @@ python image_tool.py
 ## Example:
 Do you want to (E)ncrypt or (D)ecrypt an image? e
 
-Enter the path of the image: example.jpg
+Enter the path of the image: example.png
 
-Enter the output path for the new image: encrypted_example.jpg
+Enter the output path for the new image: encrypted_example.png
 
 Enter the encryption key (a number): 50
 
